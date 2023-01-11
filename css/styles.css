@@ -1,0 +1,214 @@
+body{
+    margin: 0;   
+    text-align: center;
+    font-family: "Montserrat" , sans-serif;
+}
+h2{
+    color:  #66BFBF;
+   
+}
+h1{
+    width: 10px auto ;
+    color:  #66BFBF;
+    font-weight: normal;
+    line-height: 2;
+
+}
+.bottom-container{
+    background-color: #FCFFE7;
+}
+.middle-container{
+    background-color: #FCFFE7;
+    
+    
+    
+}
+.top-container{
+    background-color: #C0DEFF;
+    position: relative;
+    
+    
+    
+}
+.net{
+    position: relative;
+    top: 300px;
+    left: 500px;
+}
+.h1{
+    display: inline-block;
+    font-family:"Dancing Script", handwriting;
+
+} 
+#pspan{
+    background-color: #C0DEFF;  
+    font-family: "Playfair Display", serif;
+    display:inline-block ;
+    position: relative;
+    bottom: 25px;
+    font-size:2rem;
+
+}
+.moun{
+    position: relative;
+    top: 3px;
+    left: 150px;
+    width: 700px;
+    
+}
+#mac{
+    position: absolute;
+    right: 300px;
+    bottom: 100px;   
+}
+.no{
+    position: relative;
+    right: 600px;
+    bottom: 100px;
+}
+#cloud{
+    position: relative;
+    right: 270px;
+    bottom: 600px;
+}
+#cloud2{
+    position: absolute;
+    top: 300px;
+    left: 400px;
+}
+#grade{
+    font-family: "Playfair Display", serif;
+    position: relative;
+    bottom: 40px;
+    font-size: 2rem;
+}
+.deku{
+    width: 150px;
+    position:relative;
+    left: -5px;
+}
+.hi{
+    font-family: "Roboto Mono", monospace;
+    display: inline;
+    line-height: 2;
+}
+.hii{
+    position:relative;
+    bottom: 10px;
+}
+hr{
+     background-color: #ffffff;
+    border-style:none none  dotted;
+    border-width: 4px;
+    height: 0px;
+    width: 4%;
+    border-color: rgba(200, 195, 195, 0.641);
+}
+.hr2{
+    position: relative;
+    top: 3px;
+}
+.basketball{
+    position: relative;
+    right: 20px;
+    padding: 4px;
+    height:150px;
+}
+.programming{
+    height: 155px;
+    padding: 5px;
+    position: relative;
+    top: 0px;
+    right: 20px;
+    width: 250px;
+}
+.vl {
+    border-left: 6px solid rgb(128, 120, 120);
+    height: 127px;
+    width: 1px;
+    position: absolute;
+    left: 606px;
+    top: 1215px;   
+}
+.programstory{
+    font-family: "Roboto Mono", monospace;
+    display: inline;
+}
+.basketballstory{
+    font-family: "Roboto Mono", monospace;
+    display: inline;
+    position: absolute;
+    left: 100px;
+    top:1900px;
+}
+.computer{
+    width: 185px;
+    height:185px;
+    position: relative;
+    left: -280px;
+}
+.me1{
+    width: 125px;
+    height: 125px;
+    position: relative;
+    top: -30px;
+    left: -430px;
+}
+#programminghr{
+    position: absolute;
+    left: 216px;
+    width:140px;
+    top: 1730px;
+    border-color: rgb(144, 144, 144);
+}
+#me3{
+  width: 125px;
+  position: absolute;
+  right: 550px;
+  top: 1960px;
+}
+.programstory{
+    text-align: left;
+    position: absolute;
+    right: 270px;
+    top: 1570px;
+}
+#hr5{
+    position: absolute;
+    width: 140px;
+    right: 400px;
+    border-color: rgb(144, 144, 144);
+    top: 2000px;
+}
+#basketballball{
+   width: 126px;
+   position: relative;
+   left: 345px;
+   bottom: -15px;  
+}
+#gitdescription{
+    font-family: "Roboto Mono", monospace;
+    
+    display: inline;
+}
+#tele{
+    font-family: "Roboto Mono", monospace;
+    
+    display: inline;
+}
+.btn{
+    font-family: "Roboto Mono", monospace;
+    
+    display: inline;
+}
+.skills{
+    width: 50% auto;
+    line-height: 2;
+}
+
+.skill-row{
+    width: 50% auto;
+    line-height: 2;
+    margin-bottom: 100px;
+
+}
